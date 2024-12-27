@@ -36,11 +36,13 @@ Na aba Administração > Perfis > Self-Service
 
 - 2.2 - Listagem de chamados, vá até a aba Assitência > Chamados.
     Procure o mesmo ícone informado anteriormente e configure as seguintes colunas para exibição:
+  
    ![image](https://github.com/user-attachments/assets/8e820cc5-3041-4900-a4ab-940c777c737a)
    ![image](https://github.com/user-attachments/assets/2830a2c9-a71d-4f88-836e-e5eaf5e89494)
 
 - 2.3 - Listagem de documentos, vá até a aba Gerência > Documentos
     Procure o mesmo ícone informado anteriormente e configure as seguintes colunas para exibição:
+  
    ![image](https://github.com/user-attachments/assets/4448f694-91e9-4c47-90d8-6802afb2ff6e)
 
 
