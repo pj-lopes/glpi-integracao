@@ -44,7 +44,7 @@ Na aba Administração > Perfis > Self-Service
 
 
 ## 3 - Configuração da Pesquisa de Satisfação
-### A pesquisa de satisfação é necessária para que as avaliações dos chamados sejam possíveis, para isso deve-se realizar uma configuração no painel de administração do GLPI.
+ A pesquisa de satisfação é necessária para que as avaliações dos chamados sejam possíveis, para isso deve-se realizar uma configuração no painel de administração do GLPI.
 
 - 3.1 - Pesquisa de satisfação, vá até a aba Adminstração > Entidades > [SUA ENTIDADE] > Assistência > Configurando a pesquisa de satisfação (ultima sessão).
 Realize as seguintes alterações
