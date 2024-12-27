@@ -8,6 +8,7 @@ Na aba Administração > Perfis > Self-Service
 ![image](https://github.com/user-attachments/assets/d2a5f27e-dd40-4d3e-b75e-13abaef7d11b)
 
 - 1.2 - Na aba Todos mostrará todas as sessões e suas permissões, altere de acordo com as imagens abaixo:
+
    Chamados
    ![image](https://github.com/user-attachments/assets/4b8ec413-d0fa-4205-ad28-708cf2175dd9)
 
