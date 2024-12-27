@@ -26,9 +26,11 @@ Na aba Administração > Perfis > Self-Service
 ## 2 - Configuração de listagens. 
 - 2.1 - Listagem de usuários, vá até a aba Administração > Usuários.
  - Nessa tela, procure o ícone:
+   
 ![image](https://github.com/user-attachments/assets/e76bd94e-40ab-42bf-a3b9-0dbe945e4264)
 
- - Clicando no ícone abrirá um modal para configurar as colunas que serão exibidas na listagem, use a configuração a seguir: 
+ - Clicando no ícone abrirá um modal para configurar as colunas que serão exibidas na listagem, use a configuração a seguir:
+   
 ![image](https://github.com/user-attachments/assets/c98c666d-dc5a-4a3f-8bf5-230eb352c477)
 
 - 2.2 - Listagem de chamados, vá até a aba Assitência > Chamados.
