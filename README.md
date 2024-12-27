@@ -28,9 +28,8 @@ Na aba Administração > Perfis > Self-Service
  - Nessa tela, procure o ícone:
 ![image](https://github.com/user-attachments/assets/e76bd94e-40ab-42bf-a3b9-0dbe945e4264)
 
-- Clicando no ícone abrirá um modal para configurar as colunas que serão exibidas na listagem, use a configuração a seguir: 
+ - Clicando no ícone abrirá um modal para configurar as colunas que serão exibidas na listagem, use a configuração a seguir: 
 ![image](https://github.com/user-attachments/assets/c98c666d-dc5a-4a3f-8bf5-230eb352c477)
-
 
 - 2.2 - Listagem de chamados, vá até a aba Assitência > Chamados.
  - Procure o mesmo ícone informado anteriormente e configure as seguintes colunas para exibição:
@@ -52,6 +51,7 @@ Configurando a pesquisa de satisfação: Pesquisa Interna
 Criar pesquisa após: O mais breve possível
 Taxa para ativar pesquisa: 100%
 Duração da pesquisa: Não especificado
+
 - 3.2 - Ação automática, vá até a aba Configurar > Ações automáticas > procure por [createInquest], entre para configurar.
 Frequência de execução: 5 minutos
 Status: Agendado
